@@ -30,9 +30,9 @@ export default function Index() {
     queryFn: () => featuresApi.getAll(),
   });
 
-  const dealsSource = apiPackages && apiPackages.length > 0 ? apiPackages : DEALS;
-  const heroSource = apiHeroes && apiHeroes.length > 0 ? apiHeroes : HERO_SLIDES;
-  const featureSource = apiFeatures && apiFeatures.length > 0 
+  const dealsSource = (apiPackages && apiPackages.length > 0) ? apiPackages : DEALS;
+  const heroSource = (apiHeroes && apiHeroes.length > 0) ? apiHeroes : HERO_SLIDES;
+  const featureSource = (apiFeatures && apiFeatures.length > 0) 
     ? apiFeatures.map((f: any) => ({
       ...f,
       icon: f.icon === 'Mountain' ? <Mountain /> : 
@@ -52,15 +52,7 @@ export default function Index() {
 
   const slide = dealsSource[slideIdx];
 
-  if (!apiPackages || !apiHeroes || !apiFeatures) {
-    return (
-      <StandardLayout>
-        <div className="h-screen w-full flex items-center justify-center bg-slate-50">
-          <div className="w-96 h-2 animate-skeleton rounded-full" />
-        </div>
-      </StandardLayout>
-    );
-  }
+  // No longer blocking the whole page. The sources will now default to constants if API isn't ready.
 
   return (
     <StandardLayout>
