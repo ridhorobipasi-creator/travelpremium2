@@ -62,7 +62,7 @@ export const Navbar = () => {
             <Leaf size={22} fill="white" color="white" />
           </div>
           <div className="leading-none">
-            <p className="text-[17px] font-extrabold tracking-tight text-[#064E3B] uppercase">Wonderfull Toba</p>
+            <p className="text-[17px] font-extrabold tracking-tight text-[#064E3B] uppercase">Wonderfull Toba v2.1</p>
             <p className="text-[9px] font-bold tracking-[0.45em] text-emerald-600 opacity-70 uppercase mt-0.5">Nature Travel Lab</p>
           </div>
         </Link>
