@@ -1,0 +1,58 @@
+commit dc2021e7657156d9677726cb98e31c3a6172f5d5
+Author: Ridho Robbi Pasi <ridhorobbipasi@gmail.com>
+Date:   Tue Mar 24 20:56:03 2026 +0700
+
+    fix: remove api from admin redirect
+
+diff --git a/client/pages/Admin.tsx b/client/pages/Admin.tsx
+index 2202dfb..a6472d0 100644
+--- a/client/pages/Admin.tsx
++++ b/client/pages/Admin.tsx
+@@ -4,10 +4,10 @@ import { Loader2 } from "lucide-react";
+ export default function Admin() {
+   useEffect(() => {
+     const backendUrl = import.meta.env.VITE_BACKEND_URL || "http://localhost:8000";
+-    window.location.href = `${backendUrl.replace(/\/$/, '')}/admin`;
++    window.location.href = `${backendUrl.replace(/\/api\/?$/, '').replace(/\/$/, '')}/admin`;
+   }, []);
+ 
+-  const adminUrl = (import.meta.env.VITE_BACKEND_URL || "http://localhost:8000").replace(/\/$/, '') + "/admin";
++  const adminUrl = (import.meta.env.VITE_BACKEND_URL || "http://localhost:8000").replace(/\/api\/?$/, '').replace(/\/$/, '') + "/admin";
+ 
+   return (
+     <div className="flex flex-col h-screen w-full items-center justify-center bg-slate-50 text-slate-800">
+
+commit 730f66412ffb2cf5a07b96018fc885302960d030
+Author: Ridho Robbi Pasi <ridhorobbipasi@gmail.com>
+Date:   Tue Mar 24 19:04:50 2026 +0700
+
+    chore: prepare backend for deployment and make admin redirect dynamic
+
+diff --git a/client/pages/Admin.tsx b/client/pages/Admin.tsx
+index 4e91e18..2202dfb 100644
+--- a/client/pages/Admin.tsx
++++ b/client/pages/Admin.tsx
+@@ -3,10 +3,12 @@ import { Loader2 } from "lucide-react";
+ 
+ export default function Admin() {
+   useEffect(() => {
+-    // Alihkan secara otomatis ke Laravel Filament admin panel (Backend default: 8000)
+-    window.location.href = "http://localhost:8000/admin";
++    const backendUrl = import.meta.env.VITE_BACKEND_URL || "http://localhost:8000";
++    window.location.href = `${backendUrl.replace(/\/$/, '')}/admin`;
+   }, []);
+ 
++  const adminUrl = (import.meta.env.VITE_BACKEND_URL || "http://localhost:8000").replace(/\/$/, '') + "/admin";
++
+   return (
+     <div className="flex flex-col h-screen w-full items-center justify-center bg-slate-50 text-slate-800">
+       <Loader2 className="w-10 h-10 animate-spin text-emerald-500 mb-6" />
+@@ -16,7 +18,7 @@ export default function Admin() {
+         
+         <p className="text-sm text-slate-400">
+           Jika tidak teralihkan dalam 3 detik, silakan klik{" "}
+-          <a href="http://localhost:8000/admin" className="text-emerald-600 font-bold hover:underline">
++          <a href={adminUrl} className="text-emerald-600 font-bold hover:underline">
+             tautan ini
+           </a>.
+         </p>
