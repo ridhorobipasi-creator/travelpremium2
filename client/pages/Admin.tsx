@@ -3,9 +3,11 @@ import { Loader2 } from "lucide-react";
 
 export default function Admin() {
   useEffect(() => {
-    // Alihkan secara otomatis ke Laravel Filament admin panel (Backend default: 8000)
-    window.location.href = "http://localhost:8000/admin";
+    const backendUrl = import.meta.env.VITE_BACKEND_URL || "http://localhost:8000";
+    window.location.href = `${backendUrl.replace(/\/$/, '')}/admin`;
   }, []);
+
+  const adminUrl = (import.meta.env.VITE_BACKEND_URL || "http://localhost:8000").replace(/\/$/, '') + "/admin";
 
   return (
     <div className="flex flex-col h-screen w-full items-center justify-center bg-slate-50 text-slate-800">
@@ -16,7 +18,7 @@ export default function Admin() {
         
         <p className="text-sm text-slate-400">
           Jika tidak teralihkan dalam 3 detik, silakan klik{" "}
-          <a href="http://localhost:8000/admin" className="text-emerald-600 font-bold hover:underline">
+          <a href={adminUrl} className="text-emerald-600 font-bold hover:underline">
             tautan ini
           </a>.
         </p>
