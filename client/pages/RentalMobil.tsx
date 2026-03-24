@@ -13,17 +13,7 @@ export default function RentalMobil() {
     queryFn: () => carsApi.getAll(),
   });
 
-  if (isLoading) {
-    return (
-      <StandardLayout>
-        <div className="h-screen w-full flex items-center justify-center bg-slate-50">
-          <div className="w-96 h-2 animate-skeleton rounded-full" />
-        </div>
-      </StandardLayout>
-    );
-  }
-
-  const displayCars = apiCars && apiCars.length > 0 ? apiCars : CARS;
+  const displayCars = (apiCars && apiCars.length > 0) ? apiCars : CARS;
   return (
     <StandardLayout>
       <HeroPageSection 

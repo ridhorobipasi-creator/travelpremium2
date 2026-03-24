@@ -16,17 +16,7 @@ export default function PaketWisata() {
     queryFn: () => packagesApi.getAll(),
   });
 
-  if (isLoading) {
-    return (
-      <StandardLayout>
-        <div className="h-screen w-full flex items-center justify-center bg-slate-50">
-          <div className="w-96 h-2 animate-skeleton rounded-full" />
-        </div>
-      </StandardLayout>
-    );
-  }
-
-  const displayDeals = apiPackages && apiPackages.length > 0 ? apiPackages : DEALS;
+  const displayDeals = (apiPackages && apiPackages.length > 0) ? apiPackages : DEALS;
   
   const filteredDeals = activeFilter === "Semua"
     ? displayDeals

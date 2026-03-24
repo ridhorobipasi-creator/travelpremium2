@@ -25,17 +25,7 @@ export default function Galeri() {
     { src: IMG.toba,      cols: "md:col-span-1", rows: "md:row-span-1", tag: "Aktivitas" },
   ];
 
-  if (isLoading) {
-    return (
-      <StandardLayout>
-        <div className="h-screen w-full flex items-center justify-center bg-slate-50">
-          <div className="w-96 h-2 animate-skeleton rounded-full" />
-        </div>
-      </StandardLayout>
-    );
-  }
-
-  const gallerySource = apiGallery && apiGallery.length > 0 ? apiGallery : GALLERY_IMAGES;
+  const gallerySource = (apiGallery && apiGallery.length > 0) ? apiGallery : GALLERY_IMAGES;
 
   const filteredImages = activeFilter === "Semua"
     ? gallerySource

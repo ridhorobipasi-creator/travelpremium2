@@ -16,17 +16,7 @@ export default function Blog() {
     queryFn: () => blogsApi.getAll(),
   });
 
-  if (isLoading) {
-    return (
-      <StandardLayout>
-        <div className="h-screen w-full flex items-center justify-center bg-slate-50">
-          <div className="w-96 h-2 animate-skeleton rounded-full" />
-        </div>
-      </StandardLayout>
-    );
-  }
-
-  const blogsSource = apiBlogs && apiBlogs.length > 0 ? apiBlogs : BLOG_POSTS;
+  const blogsSource = (apiBlogs && apiBlogs.length > 0) ? apiBlogs : BLOG_POSTS;
 
   const filteredPosts = activeCategory 
     ? blogsSource.filter((post: any) => post.label === activeCategory)
