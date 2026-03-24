@@ -4,10 +4,10 @@ import { Loader2 } from "lucide-react";
 export default function Admin() {
   useEffect(() => {
     const backendUrl = import.meta.env.VITE_BACKEND_URL || "http://localhost:8000";
-    window.location.href = `${backendUrl.replace(/\/$/, '')}/admin`;
+    window.location.href = `${backendUrl.replace(/\/api\/?$/, '').replace(/\/$/, '')}/admin`;
   }, []);
 
-  const adminUrl = (import.meta.env.VITE_BACKEND_URL || "http://localhost:8000").replace(/\/$/, '') + "/admin";
+  const adminUrl = (import.meta.env.VITE_BACKEND_URL || "http://localhost:8000").replace(/\/api\/?$/, '').replace(/\/$/, '') + "/admin";
 
   return (
     <div className="flex flex-col h-screen w-full items-center justify-center bg-slate-50 text-slate-800">
