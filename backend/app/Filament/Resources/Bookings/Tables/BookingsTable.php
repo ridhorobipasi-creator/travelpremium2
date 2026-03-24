@@ -1,0 +1,63 @@
+<?php
+
+namespace App\Filament\Resources\Bookings\Tables;
+
+use Filament\Actions\BulkActionGroup;
+use Filament\Actions\DeleteBulkAction;
+use Filament\Actions\EditAction;
+use Filament\Tables\Columns\TextColumn;
+use Filament\Tables\Table;
+
+class BookingsTable
+{
+    public static function configure(Table $table): Table
+    {
+        return $table
+            ->columns([
+                TextColumn::make('booking_type')
+                    ->searchable(),
+                TextColumn::make('user_id')
+                    ->numeric()
+                    ->sortable(),
+                TextColumn::make('item_name')
+                    ->searchable(),
+                TextColumn::make('date_start')
+                    ->date()
+                    ->sortable(),
+                TextColumn::make('date_end')
+                    ->date()
+                    ->sortable(),
+                TextColumn::make('quantity')
+                    ->numeric()
+                    ->sortable(),
+                TextColumn::make('consumer_name')
+                    ->searchable(),
+                TextColumn::make('consumer_whatsapp')
+                    ->searchable(),
+                TextColumn::make('total_price')
+                    ->money()
+                    ->sortable(),
+                TextColumn::make('status')
+                    ->searchable(),
+                TextColumn::make('created_at')
+                    ->dateTime()
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
+                TextColumn::make('updated_at')
+                    ->dateTime()
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
+            ])
+            ->filters([
+                //
+            ])
+            ->recordActions([
+                EditAction::make(),
+            ])
+            ->toolbarActions([
+                BulkActionGroup::make([
+                    DeleteBulkAction::make(),
+                ]),
+            ]);
+    }
+}

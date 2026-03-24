@@ -1,0 +1,1156 @@
+{
+  "DEALS": [
+    {
+      "id": "eksplorasi-budaya-samosir",
+      "region": "Samosir",
+      "title": "Eksplorasi Budaya Batak di Tuktuk Siadong",
+      "price": "Rp 2,4jt",
+      "priceNum": 2400000,
+      "image": "/images/hero_toba.png",
+      "desc": "Menyusuri desa adat Tomok, menikmati matahari terbit di tepian danau biru.",
+      "duration": "4 Hari 3 Malam",
+      "rating": "4.9",
+      "reviews": 128,
+      "minPax": 2,
+      "maxPax": 12,
+      "category": "Danau Toba",
+      "highlights": [
+        "Desa Adat Tomok & Makam Raja Sidabutar",
+        "Pertunjukan Sigale-gale (Boneka Magis Batak)",
+        "Sunrise di Bukit Holbung",
+        "Kunjungan Penenun Ulos Tradisional",
+        "Susur Danau Toba dengan Kapal Kayu"
+      ],
+      "itinerary": [
+        {
+          "day": "Hari 1",
+          "title": "Tiba di Parapat — Menyeberang ke Samosir",
+          "desc": "Penjemputan di Bandara Kualanamu, perjalanan menuju Parapat (±4 jam), menyeberangi Danau Toba dengan ferry menuju Pulau Samosir. Check-in di resort tepian danau, makan malam dengan sajian ikan bakar khas Toba.",
+          "points": [
+            "Penjemputan Bandara KNO",
+            "Pelabuhan Ajibata → Tomok",
+            "Check-in & makan malam"
+          ]
+        },
+        {
+          "day": "Hari 2",
+          "title": "Wisata Budaya Tomok & Ambarita",
+          "desc": "Kunjungi Makam Raja Sidabutar, saksikan pertunjukan boneka Sigale-gale yang mistis. Lanjut ke Ambarita, tempat hukuman raja zaman dahulu. Sore hari, belajar menenun kain Ulos bersama pengrajin lokal.",
+          "points": [
+            "Makam Raja Sidabutar",
+            "Pertunjukan Sigale-gale",
+            "Desa Ambarita",
+            "Workshop kain Ulos"
+          ]
+        },
+        {
+          "day": "Hari 3",
+          "title": "Sunrise Bukit Holbung & Susur Danau",
+          "desc": "Bangun pagi untuk menikmati sunrise epik di Bukit Holbung (760 mdpl). Siang hari, susur danau dengan kapal kayu tradisional mengitari pulau, singgah di beberapa titik foto terbaik.",
+          "points": [
+            "Sunrise Bukit Holbung pukul 05.30",
+            "Susur Danau Toba",
+            "Snorkeling di perairan jernih",
+            "Makan siang di atas perahu"
+          ]
+        },
+        {
+          "day": "Hari 4",
+          "title": "Belanja Oleh-oleh & Kepulangan",
+          "desc": "Pagi santai menikmati kopi Mandailing di tepi danau. Belanja oleh-oleh kain Ulos, patung Batak, dan kopi lokal. Ferry kembali ke Parapat, perjalanan ke Medan dan kepulangan.",
+          "points": [
+            "Pasar Seni Tomok",
+            "Ferry → Parapat",
+            "Transfer Bandara KNO"
+          ]
+        }
+      ],
+      "included": [
+        "Transport AC Medan–Parapat–Medan",
+        "Ferry penyeberangan PP",
+        "Hotel/homestay 3 malam",
+        "Makan 3x sehari",
+        "Guide lokal bersertifikat",
+        "Tiket masuk semua objek wisata",
+        "Air mineral sepanjang trip"
+      ],
+      "excluded": [
+        "Tiket pesawat",
+        "Oleh-oleh & pengeluaran pribadi",
+        "Tips pemandu & sopir"
+      ],
+      "gallery": [
+        "/images/hero_toba.png",
+        "/images/sipiso.png",
+        "/images/berastagi.png"
+      ]
+    },
+    {
+      "id": "puncak-sibayak-karo",
+      "region": "Berastagi",
+      "title": "Dataran Tinggi Karo & Puncak Sibayak",
+      "price": "Rp 1,5jt",
+      "priceNum": 1500000,
+      "image": "/images/berastagi.png",
+      "desc": "Udara sejuk, aroma markisa, dan panorama gunung berapi yang spektakuler.",
+      "duration": "3 Hari 2 Malam",
+      "rating": "4.8",
+      "reviews": 94,
+      "minPax": 2,
+      "maxPax": 10,
+      "category": "Adventure",
+      "highlights": [
+        "Mendaki Gunung Sibayak (2.212 mdpl)",
+        "Pemandian Air Panas Alam Semulajadi",
+        "Pasar Buah & Sayur Berastagi",
+        "Festival Budaya Karo (jika musisnya)",
+        "Wisata Desa Tradisional Dokan"
+      ],
+      "itinerary": [
+        {
+          "day": "Hari 1",
+          "title": "Medan → Berastagi & Orientasi Kota",
+          "desc": "Berangkat pagi dari Medan menuju Berastagi (±2 jam). Singgah di Pasar Buah legendaris untuk mencicipi markisa, stroberi, dan jeruk khas Karo. Sore hari jalan-jalan di sekitar Tugu Berastagi.",
+          "points": [
+            "Penjemputan point meeting",
+            "Pasar Buah Berastagi",
+            "Tugu Berastagi & foto-foto",
+            "Check-in penginapan"
+          ]
+        },
+        {
+          "day": "Hari 2",
+          "title": "Summit Gunung Sibayak",
+          "desc": "Start pendakian pukul 06.00 dari pintu rimba. Estimasi 3-4 jam menuju puncak dengan pemandangan kawah belerang yang dramatis. Turun via jalur Semangat Gunung, dilanjut berendam di sumber air panas.",
+          "points": [
+            "Start pendakian 06.00 WIB",
+            "Summit puncak ±2.212 mdpl",
+            "Kawah belerang aktif",
+            "Pemandian air panas Semangat Gunung"
+          ]
+        },
+        {
+          "day": "Hari 3",
+          "title": "Desa Dokan & Kepulangan",
+          "desc": "Kunjungi Desa Tradisional Dokan yang masih mempertahankan rumah adat Karo. Makan siang khas Karo (Cipera, Tasak Telu). Belanja oleh-oleh sebelum kembali ke Medan.",
+          "points": [
+            "Desa Adat Dokan",
+            "Makan siang masakan Karo",
+            "Belanja oleh-oleh",
+            "Kembali ke Medan"
+          ]
+        }
+      ],
+      "included": [
+        "Transport PP Medan–Berastagi",
+        "Penginapan 2 malam",
+        "Makan 3x sehari",
+        "Guide pendakian bersertifikat",
+        "Perlengkapan trekking dasar",
+        "Tiket masuk semua objek wisata"
+      ],
+      "excluded": [
+        "Tiket pesawat",
+        "Perlengkapan pendakian pribadi",
+        "Oleh-oleh & pengeluaran pribadi"
+      ],
+      "gallery": [
+        "/images/berastagi.png",
+        "/images/sipiso.png",
+        "/images/hero_toba.png"
+      ]
+    },
+    {
+      "id": "hidden-paradise-tangkahan",
+      "region": "Tangkahan",
+      "title": "Hidden Paradise: Gajah & Air Biru Tangkahan",
+      "price": "Rp 2,9jt",
+      "priceNum": 2900000,
+      "image": "/images/tangkahan.png",
+      "desc": "Mandikan gajah liar di sungai jernih tersembunyi di kaki Gunung Leuser.",
+      "duration": "4 Hari 3 Malam",
+      "rating": "4.9",
+      "reviews": 156,
+      "minPax": 2,
+      "maxPax": 8,
+      "category": "Wildlife",
+      "highlights": [
+        "Memandikan Gajah Sumatra di Sungai Batang Serangan",
+        "Trekking di Taman Nasional Gunung Leuser",
+        "Snorkeling di Sungai Jernih Tangkahan",
+        "Menginap di Jungle Lodge",
+        "Memasak bersama penduduk lokal"
+      ],
+      "itinerary": [
+        {
+          "day": "Hari 1",
+          "title": "Medan → Tangkahan (via Binjai)",
+          "desc": "Perjalanan menuju Tangkahan ±4 jam melewati kota Binjai dan perkebunan sawit. Tiba sore, check-in di jungle lodge di tepi sungai. Makan malam bersama dan briefing keselamatan.",
+          "points": [
+            "Penjemputan Medan",
+            "Perjalanan ±4 jam via Binjai",
+            "Check-in jungle lodge",
+            "Briefing program"
+          ]
+        },
+        {
+          "day": "Hari 2",
+          "title": "Hari Bersama Gajah",
+          "desc": "Pagi hari yang magis: ikut pawang gajah memandikan 5 ekor gajah Sumatra terlatih di sungai. Siang trekking ringan di tepi kawasan TNGL. Sore, snorkeling di arus sungai bening.",
+          "points": [
+            "Memandikan gajah 07.00 WIB",
+            "Trek tepi sungai",
+            "Makan siang di alam terbuka",
+            "Snorkeling"
+          ]
+        },
+        {
+          "day": "Hari 3",
+          "title": "Trekking Hutan Leuser",
+          "desc": "Trekking 3-4 jam bersama ranger TNGL ke dalam hutan primer. Berpeluang menjumpai orangutan, siamang, dan berbagai spesies burung langka. Kembali sore untuk acara bebas.",
+          "points": [
+            "Trek hutan primer bersama ranger",
+            "Pengamatan satwa liar",
+            "Mandi di air terjun kecil",
+            "Malam api unggun"
+          ]
+        },
+        {
+          "day": "Hari 4",
+          "title": "Memasak Khas Lokal & Kepulangan",
+          "desc": "Pagi hari workshop memasak masakan tradisional Melayu bersama ibu-ibu desa. Makan siang bersama hasil masakan sendiri. Perjalanan kembali ke Medan.",
+          "points": [
+            "Workshop memasak lokal",
+            "Makan siang bikinan sendiri",
+            "Perjalanan kembali ke Medan",
+            "Drop off di Bandara/Hotel"
+          ]
+        }
+      ],
+      "included": [
+        "Transport AC Medan–Tangkahan PP",
+        "Jungle lodge 3 malam (twin share)",
+        "Semua makan selama program",
+        "Guide + ranger TNGL",
+        "Sesi memandikan gajah",
+        "Snorkeling gear",
+        "Workshop memasak"
+      ],
+      "excluded": [
+        "Tiket pesawat & airport tax",
+        "Minuman beralkohol",
+        "Pengeluaran pribadi"
+      ],
+      "gallery": [
+        "/images/tangkahan.png",
+        "/images/bukit_lawang.png",
+        "/images/hero_toba.png"
+      ]
+    },
+    {
+      "id": "trek-orangutan-bukit-lawang",
+      "region": "Bukit Lawang",
+      "title": "Trek Orangutan di Rimba Bukit Lawang",
+      "price": "Rp 2,7jt",
+      "priceNum": 2700000,
+      "image": "/images/bukit_lawang.png",
+      "desc": "Berjalan bersisian dengan orangutan Sumatra di kanopi hutan purba.",
+      "duration": "3 Hari 2 Malam",
+      "rating": "4.9",
+      "reviews": 203,
+      "minPax": 2,
+      "maxPax": 6,
+      "category": "Wildlife",
+      "highlights": [
+        "Tracking Orangutan Sumatra di TNGL",
+        "River Tubing di Sungai Bohorok",
+        "Menginap di Treehouse di tepi sungai",
+        "Belajar fotografi satwa liar",
+        "Sunrise trek ke viewpoint"
+      ],
+      "itinerary": [
+        {
+          "day": "Hari 1",
+          "title": "Medan → Bukit Lawang & Orientasi",
+          "desc": "Berangkat pagi, perjalanan ±3.5 jam dari Medan ke Bukit Lawang. Siang tiba, check-in treehouse. Sore briefing tracking beserta guide berpengalaman, dilanjut jalan santai di pinggir Sungai Bohorok.",
+          "points": [
+            "Penjemputan Medan",
+            "Perjalanan via Binjai ±3.5 jam",
+            "Check-in treehouse lodge",
+            "Briefing dan orientasi"
+          ]
+        },
+        {
+          "day": "Hari 2",
+          "title": "Tracking Orangutan (6-8 jam)",
+          "desc": "Ini moments utama! Trek bersama guide ke dalam hutan TNGL menembus kabut pagi. Berpeluang besar bertemu orangutan Sumatra semi-liar di habitatnya. Tubing sungai Bohorok di sore hari.",
+          "points": [
+            "Start trek 07.30 WIB",
+            "Tracking orangutan 6-8 jam",
+            "Makan siang di hutan",
+            "River tubing Sungai Bohorok"
+          ]
+        },
+        {
+          "day": "Hari 3",
+          "title": "Sunrise Viewpoint & Kepulangan",
+          "desc": "Bangun subuh untuk sunrise trek ke bukit viewpoint. Menikmati sarapan di atas bukit sambil melihat kanopi hutan bermandikan cahaya emas. Kembali ke lodge, check-out, perjalanan ke Medan.",
+          "points": [
+            "Sunrise trek 05.00 WIB",
+            "Sarapan di viewpoint",
+            "Check-out",
+            "Perjalanan kembali ke Medan"
+          ]
+        }
+      ],
+      "included": [
+        "Transport AC Medan–Bukit Lawang PP",
+        "Treehouse lodge 2 malam",
+        "Makan 3x sehari",
+        "Guide tracker bersertifikat",
+        "River tubing gear",
+        "Tiket masuk TNGL",
+        "Asuransi perjalanan"
+      ],
+      "excluded": [
+        "Tiket pesawat",
+        "Oleh-oleh & minuman botol",
+        "Tips guide & porter"
+      ],
+      "gallery": [
+        "/images/bukit_lawang.png",
+        "/images/tangkahan.png",
+        "/images/berastagi.png"
+      ]
+    },
+    {
+      "id": "sejarah-kuliner-medan",
+      "region": "Medan",
+      "title": "Sejarah & Kuliner Ibu Kota Sumatera Utara",
+      "price": "Rp 1,9jt",
+      "priceNum": 1900000,
+      "image": "/images/hero_toba.png",
+      "desc": "Istana Maimoon, Kesawan, dan surga kuliner Durian Ucok legendaris.",
+      "duration": "2 Hari 1 Malam",
+      "rating": "4.7",
+      "reviews": 87,
+      "minPax": 1,
+      "maxPax": 15,
+      "category": "Danau Toba",
+      "highlights": [
+        "Istana Maimoon — Ikon Melayu Medan",
+        "Mesjid Raya Medan yang Megah",
+        "Kawasan Pecinan & Kuil Shri Mariamman",
+        "Food Tour Kuliner Medan (Bika Ambon, Soto Medan, Durian!)",
+        "Titi Gantung & Jalan Kesawan Bersejarah"
+      ],
+      "itinerary": [
+        {
+          "day": "Hari 1",
+          "title": "Historical & Cultural Tour",
+          "desc": "Mulai dari Istana Maimoon yang megah, dilanjut ke Mesjid Raya dan kawasan bersejarah Kesawan. Siang di kawasan Pecinan, mengunjungi Kuil Shri Mariamman. Sore istirahat di hotel, malam food tour malam.",
+          "points": [
+            "Istana Maimoon",
+            "Mesjid Raya Al Mashun",
+            "Jalan Kesawan",
+            "Kuil Shri Mariamman",
+            "Food tour malam"
+          ]
+        },
+        {
+          "day": "Hari 2",
+          "title": "Kuliner & Belanja",
+          "desc": "Sarapan Soto Medan asli warung legendaris. Kunjungi Pasar Ikan Lama dan pasar etnis hidangan. Wisata kuliner besar: Bika Ambon, Mie Aceh, dan puncaknya — Durian Ucok legendaris! Antar ke bandara.",
+          "points": [
+            "Sarapan Soto Medan",
+            "Pasar Ikan Lama",
+            "Bika Ambon Zulaikha",
+            "Mie Aceh Bang Amir",
+            "Durian Ucok",
+            "Bandara KNO"
+          ]
+        }
+      ],
+      "included": [
+        "Transport AC selama tour",
+        "Hotel bintang 3 (1 malam)",
+        "Sarapan hotel",
+        "Makan siang & malam hari 1",
+        "Guide lokal kota Medan",
+        "Tiket Istana Maimoon & Museum"
+      ],
+      "excluded": [
+        "Tiket pesawat",
+        "Pengeluaran kuliner hari 2 (pay as you eat)",
+        "Oleh-oleh"
+      ],
+      "gallery": [
+        "/images/hero_toba.png",
+        "/images/hero_toba.png",
+        "/images/berastagi.png"
+      ]
+    },
+    {
+      "id": "kaldera-toba-danau-purba",
+      "region": "Samosir",
+      "title": "Kaldera Toba: Danau Vulkanik Terbesar Dunia",
+      "price": "Rp 3,5jt",
+      "priceNum": 3500000,
+      "image": "/images/hero_toba.png",
+      "desc": "Paket premium menjelajahi seisi kaldera Toba selama 5 hari 4 malam.",
+      "duration": "5 Hari 4 Malam",
+      "rating": "5.0",
+      "reviews": 64,
+      "minPax": 2,
+      "maxPax": 8,
+      "category": "Danau Toba",
+      "highlights": [
+        "Keliling Penuh Pulau Samosir",
+        "Kunjungan Desa Adat Lingga",
+        "Berkuda di Padang Siallagan",
+        "Star Gazing di Bukit Singgolom",
+        "Sunset Cruise Premium Danau Toba"
+      ],
+      "itinerary": [
+        {
+          "day": "Hari 1",
+          "title": "Tiba & Parapat Explorations",
+          "desc": "Transfer dari Medan, tiba di Parapat. Eksplorasi kota Parapat: pelabuhan, bukit-bukit viewpoint. Menyeberang ke Samosir via ferry. Check-in resort premium tepian danau.",
+          "points": [
+            "Transfer dari Medan",
+            "Jelajah Parapat",
+            "Ferry Parapat → Tomok",
+            "Check-in resort"
+          ]
+        },
+        {
+          "day": "Hari 2",
+          "title": "Tomok, Simanindo & Museum Huta Bolon",
+          "desc": "Tur budaya penuh: Desa Tomok, Museum Huta Bolon Simanindo (koleksi budaya Batak terlengkap), pertunjukan tari tradisional, dan Pantai Parbaba.",
+          "points": [
+            "Museum Huta Bolon Simanindo",
+            "Tari Tor-tor tradisional",
+            "Pantai Parbaba",
+            "Makan siang pinggir danau"
+          ]
+        },
+        {
+          "day": "Hari 3",
+          "title": "Berkuda & Desa Adat Lingga",
+          "desc": "Pagi berkuda mengelilingi Padang Siallagan dengan pemandangan danau. Siang kunjungi Desa Adat Lingga — desa tua beratap seng, penuh sejarah Batak Toba.",
+          "points": [
+            "Berkuda di Siallagan",
+            "Desa Adat Lingga",
+            "Photo spot terbaik",
+            "Sore bebas di danau"
+          ]
+        },
+        {
+          "day": "Hari 4",
+          "title": "Star Gazing & Sunset Cruise",
+          "desc": "Pagi santai di resort. Sore: Sunset Cruise Premium mengelilingi bagian barat danau dengan minuman selamat datang. Malam: star gazing privat di Bukit Singgolom dengan teleskop.",
+          "points": [
+            "Santai resort pagi",
+            "Sunset cruise 16.30 WIB",
+            "Makan malam romantis",
+            "Star gazing Bukit Singgolom"
+          ]
+        },
+        {
+          "day": "Hari 5",
+          "title": "Pagi Bersih & Kepulangan",
+          "desc": "Sarapan pagi di tepi danau, waktu bebas untuk photo terakhir. Ferry kembali ke Parapat dan perjalanan ke Bandara Kualanamu.",
+          "points": [
+            "Sarapan & waktu bebas",
+            "Ferry → Parapat",
+            "Transfer Bandara KNO"
+          ]
+        }
+      ],
+      "included": [
+        "Transport premium Medan–Samosir PP",
+        "Resort bintang 4 (4 malam)",
+        "Semua makan selama trip",
+        "Sunset cruise",
+        "Berkuda",
+        "Star gazing privat",
+        "Guide senior berpengalaman",
+        "Tiket semua objek wisata"
+      ],
+      "excluded": [
+        "Tiket pesawat",
+        "Minuman beralkohol",
+        "Spa & wellness",
+        "Tip pemandu"
+      ],
+      "gallery": [
+        "/images/hero_toba.png",
+        "/images/hero_toba.png",
+        "/images/sipiso.png"
+      ]
+    }
+  ],
+  "CARS": [
+    {
+      "id": "innova-reborn",
+      "title": "Innova Reborn",
+      "unit": "Premium MPV",
+      "seats": 6,
+      "luggage": 3,
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "ac": true,
+      "pricePerDay": "Rp 750.000",
+      "pricePerDayNum": 750000,
+      "img": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=600&q=80&auto=format&fit=crop",
+      "imgDetail": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=1200&q=90&auto=format&fit=crop",
+      "desc": "Pilihan terbaik untuk keluarga dan rombongan kecil. Innova Reborn hadir dengan interior premium, suspensi nyaman untuk medan pegunungan Sumatera Utara, dan konsumsi bahan bakar yang efisien.",
+      "features": [
+        "Sopir + BBM termasuk",
+        "AC double blower",
+        "USB charging port",
+        "Bagasi besar",
+        "First aid kit",
+        "Mineral water"
+      ],
+      "bestFor": [
+        "Keluarga 4-6 orang",
+        "Perjalanan jarak jauh",
+        "Medan lereng & pegunungan"
+      ],
+      "gallery": [
+        "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&q=80",
+        "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=800&q=80",
+        "https://images.unsplash.com/photo-1541899481282-d53bffe3c25d?w=800&q=80"
+      ]
+    },
+    {
+      "id": "toyota-hiace",
+      "title": "Toyota Hiace",
+      "unit": "Minibus Commuter",
+      "seats": 14,
+      "luggage": 8,
+      "transmission": "Manual",
+      "fuelType": "Diesel",
+      "ac": true,
+      "pricePerDay": "Rp 1.200.000",
+      "pricePerDayNum": 1200000,
+      "img": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&q=80&auto=format&fit=crop",
+      "imgDetail": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=1200&q=90&auto=format&fit=crop",
+      "desc": "Andalan rombongan besar. Toyota Hiace Commuter dengan kapasitas 14 penumpang dan bagasi luas, cocok untuk grup wisata, meeting, atau gathering perusahaan ke destinasi-destinasi Sumatera Utara.",
+      "features": [
+        "Sopir berpengalaman",
+        "AC high capacity",
+        "Bagasi ekstra luas",
+        "Curtain jendela",
+        "Sound system",
+        "Mineral water"
+      ],
+      "bestFor": [
+        "Rombongan 10-14 orang",
+        "Tour group",
+        "Corporate trip"
+      ],
+      "gallery": [
+        "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80",
+        "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80",
+        "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&q=80"
+      ]
+    },
+    {
+      "id": "toyota-alphard",
+      "title": "Toyota Alphard",
+      "unit": "Luxury VIP",
+      "seats": 7,
+      "luggage": 4,
+      "transmission": "Automatic",
+      "fuelType": "Bensin",
+      "ac": true,
+      "pricePerDay": "Rp 1.800.000",
+      "pricePerDayNum": 1800000,
+      "img": "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=600&q=80&auto=format&fit=crop",
+      "imgDetail": "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=1200&q=90&auto=format&fit=crop",
+      "desc": "Kemewahan tanpa kompromi. Alphard hadir untuk tamu VIP yang mengutamakan kenyamanan premium. Captain seat, sunroof panoramik, dan sistem hiburan canggih membuat setiap perjalanan terasa seperti suite hotel berjalan.",
+      "features": [
+        "Captain seat premium",
+        "Sunroof panoramik",
+        "Sistem audio premium",
+        "Kaca film gelap",
+        "Charger wireless",
+        "Minuman & snack VIP"
+      ],
+      "bestFor": [
+        "Tamu VIP & VVIP",
+        "Honeymoon & anniversary",
+        "Airport transfer mewah"
+      ],
+      "gallery": [
+        "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=800&q=80",
+        "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&q=80",
+        "https://images.unsplash.com/photo-1541899481282-d53bffe3c25d?w=800&q=80"
+      ]
+    },
+    {
+      "id": "isuzu-elf",
+      "title": "Isuzu Elf",
+      "unit": "Long Chassis",
+      "seats": 12,
+      "luggage": 6,
+      "transmission": "Manual",
+      "fuelType": "Diesel",
+      "ac": true,
+      "pricePerDay": "Rp 1.000.000",
+      "pricePerDayNum": 1000000,
+      "img": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&q=80&auto=format&fit=crop",
+      "imgDetail": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=1200&q=90&auto=format&fit=crop",
+      "desc": "Elf Long Chassis adalah solusi transportasi grup yang tangguh dan ekonomis. Dengan ground clearance tinggi, mampu menjangkau destinasi offroad seperti Tangkahan, Bukit Lawang, dan kampung-kampung adat terpencil.",
+      "features": [
+        "Sopir lokal berpengalaman",
+        "AC sejuk",
+        "Ground clearance tinggi",
+        "Bagasi luas",
+        "Emergency toolkit",
+        "Mineral water"
+      ],
+      "bestFor": [
+        "Rombongan 8-12 orang",
+        "Wisata offroad",
+        "Destinasi pelosok"
+      ],
+      "gallery": [
+        "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80",
+        "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80",
+        "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=800&q=80"
+      ]
+    },
+    {
+      "id": "toyota-avanza",
+      "title": "Toyota Avanza",
+      "unit": "City Drive",
+      "seats": 7,
+      "luggage": 3,
+      "transmission": "Manual",
+      "fuelType": "Bensin",
+      "ac": true,
+      "pricePerDay": "Rp 500.000",
+      "pricePerDayNum": 500000,
+      "img": "https://images.unsplash.com/photo-1541899481282-d53bffe3c25d?w=600&q=80&auto=format&fit=crop",
+      "imgDetail": "https://images.unsplash.com/photo-1541899481282-d53bffe3c25d?w=1200&q=90&auto=format&fit=crop",
+      "desc": "Pilihan hemat untuk eksplorasi kota Medan dan sekitarnya. Avanza lincah di jalanan kota, irit bahan bakar, dan nyaman untuk keluarga kecil yang ingin menjelajahi kuliner dan situs sejarah Medan.",
+      "features": [
+        "Sopir + BBM termasuk",
+        "AC nyaman",
+        "Musik & hiburan",
+        "Cocok kota & sekitarnya",
+        "Mineral water",
+        "Ekonomis"
+      ],
+      "bestFor": [
+        "City tour Medan",
+        "Keluarga 4-6 orang",
+        "Budget traveler"
+      ],
+      "gallery": [
+        "https://images.unsplash.com/photo-1541899481282-d53bffe3c25d?w=800&q=80",
+        "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&q=80",
+        "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=800&q=80"
+      ]
+    },
+    {
+      "id": "bus-pariwisata",
+      "title": "Bus Pariwisata",
+      "unit": "Big Bus 45 Seats",
+      "seats": 45,
+      "luggage": 20,
+      "transmission": "Manual",
+      "fuelType": "Diesel",
+      "ac": true,
+      "pricePerDay": "Rp 3.500.000",
+      "pricePerDayNum": 3500000,
+      "img": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&q=80&auto=format&fit=crop",
+      "imgDetail": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=1200&q=90&auto=format&fit=crop",
+      "desc": "Untuk rombongan besar. Bus pariwisata 45 kursi kami dilengkapi sound system profesional, microphone, bagasi bawah luas, dan toilet onboard. Cocok untuk gathering perusahaan, study tour, dan ziarah.",
+      "features": [
+        "Sound system & microphone",
+        "Toilet onboard",
+        "Bagasi bawah luas",
+        "AC full",
+        "Reclining seat",
+        "TV layar lebar"
+      ],
+      "bestFor": [
+        "Rombongan 30-45 orang",
+        "Corporate gathering",
+        "Study tour",
+        "Wisata ziarah"
+      ],
+      "gallery": [
+        "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80",
+        "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80",
+        "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&q=80"
+      ]
+    }
+  ],
+  "BLOG_POSTS": [
+    {
+      "id": "sejarah-kain-ulos",
+      "label": "Budaya",
+      "title": "Mengenal Sejarah Kain Ulos",
+      "desc": "Ulos bukan sekadar kain tenun biasa, ia adalah nyawa dalam setiap ritual adat Batak dari kelahiran hingga kematian...",
+      "img": "/images/hero_toba.png",
+      "date": "12 Maret 2024",
+      "author": "Rina Sitompul",
+      "readTime": "6 Menit",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Di tanah Batak, ada sebuah ungkapan yang hidup dalam setiap jengkal kebudayaan: 'Ijuk pangihut ni hodong, ulos pangihut ni holong.' Yang bermakna: seperti ijuk yang melekatkan pelepah, ulos merekatkan kasih sayang. Kain ulos bukan sekadar busana atau ornamen. Ia adalah roh dari setiap upacara adat Batak — dari saat seorang anak pertama kali menghirup udara dunia, hingga momen terakhir ketika seorang tetua menutup mata untuk selamanya."
+        },
+        {
+          "type": "heading",
+          "text": "Asal Usul yang Penuh Makna"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ulos diperkirakan sudah ada sejak ribuan tahun lalu, lahir dari kebutuhan manusia Batak untuk melindungi diri dari dinginnya udara pegunungan Sumatera Utara. Namun seiring waktu, fungsinya berkembang jauh melampaui kebutuhan fisiologis. Ulos menjadi medium transisi spiritual — sebuah bahasa yang menghubungkan yang hidup, yang mati, dan yang belum lahir."
+        },
+        {
+          "type": "heading",
+          "text": "Jenis-Jenis Ulos dan Maknanya"
+        },
+        {
+          "type": "paragraph",
+          "text": "Terdapat ratusan jenis ulos dengan fungsi spesifik masing-masing. Ulos Ragihotang diberikan kepada orang yang meninggal dunia atau anggota keluarga yang berduka — dianggap sebagai penghangat jiwa. Ulos Sibolang dipakai dalam upacara pernikahan sebagai simbol berkat dari orang tua kepada pengantin. Ulos Mangiring melambangkan harapan agar sang anak tumbuh menjadi pribadi yang dikelilingi banyak teman dan keluarga."
+        },
+        {
+          "type": "quote",
+          "text": "Ulos adalah doa yang ditenun. Setiap benang adalah harapan, setiap motif adalah cerita.",
+          "author": "Pak Berton Sihombing, Penenun Tradisional Samosir"
+        },
+        {
+          "type": "heading",
+          "text": "Proses Tenun yang Sakral"
+        },
+        {
+          "type": "paragraph",
+          "text": "Menenun ulos adalah proses yang panjang dan penuh kedisiplinan. Seorang perempuan Batak bisa menghabiskan berminggu-minggu bahkan berbulan-bulan untuk menyelesaikan satu lembar ulos berkualitas tinggi. Dahulu, proses pembuatannya dilakukan dengan alat tenun tradisional yang disebut 'hata'. Benang dipintal dari kapas alami, diwarnai dengan bahan-bahan tumbuhan seperti tarum (indigo), kunyit, dan akar pohon tertentu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di era modern, sebagian besar ulos telah diproduksi dengan mesin. Namun di pulau Samosir dan beberapa daerah di sekitar Danau Toba, masih ada penjaga tradisi — para ibu dan nenek yang dengan sabar duduk di hadapan alat tenun kayu mereka, menjaga warisan yang takternilai ini agar tidak menghilang bersama waktu."
+        },
+        {
+          "type": "heading",
+          "text": "Wisata Ulos di Samosir"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bagi wisatawan yang ingin menyelami dunia ulos, Desa Lumban Suhi-Suhi di Samosir adalah destinasi wajib. Di sini Anda bisa menyaksikan langsung proses tenun tradisional, belajar dasar-dasar menenun, dan membeli ulos langsung dari pengrajinnya dengan harga yang jauh lebih terjangkau dibanding di kota-kota besar. Sebuah pengalaman yang tidak akan terlupakan."
+        }
+      ],
+      "tags": [
+        "Budaya Batak",
+        "Ulos",
+        "Samosir",
+        "Tradisi"
+      ],
+      "related": [
+        "rahasia-andaliman-merica-batak",
+        "sejarah-kuliner-medan"
+      ]
+    },
+    {
+      "id": "rahasia-andaliman-merica-batak",
+      "label": "Kuliner",
+      "title": "Rahasia Andaliman, Merica Khas Batak",
+      "desc": "Rasa getir yang unik dari andaliman membuat kuliner seperti Arsik dan Mie Gomak tidak bisa ditemukan tandingannya...",
+      "img": "/images/sipiso.png",
+      "date": "28 Februari 2024",
+      "author": "Chef Mangasi Hutabarat",
+      "readTime": "5 Menit",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Di dunia kuliner nusantara yang kaya, ada satu rempah yang punya kemampuan luar biasa: membuat lidah Anda 'mati rasa' selama beberapa detik sebelum meledakkan sensasi rasa yang tak terlukiskan. Itulah andaliman — yang sering disebut 'Sichuan pepper'-nya Sumatera. Tumbuh secara liar di hutan-hutan pegunungan sekitar Danau Toba, andaliman adalah jiwa dari hampir semua masakan tradisional Batak."
+        },
+        {
+          "type": "heading",
+          "text": "Mengapa Andaliman Begitu Istimewa?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Andaliman (Zanthoxylum acanthopodium) bukan anggota keluarga lada biasa. Ia adalah kerabat dekat Sichuan pepper dari Cina, namun dengan karakter rasa yang lebih segar dan buah. Kandungan hydroxy alpha sanshool di dalamnya menciptakan efek anestesi ringan pada reseptor sentuhan di lidah — itulah sensasi kesemutan yang unik itu."
+        },
+        {
+          "type": "quote",
+          "text": "Tanpa andaliman, masakan Batak ibarat lagu tanpa nada. Hampa.",
+          "author": "Inang Rosita, Warung Arsik Legendaris Samosir"
+        },
+        {
+          "type": "heading",
+          "text": "Arsik: Mahkota Kuliner Batak"
+        },
+        {
+          "type": "paragraph",
+          "text": "Arsik adalah hidangan ikan mas (atau ikan nila) yang dimasak dengan bumbu kuning berlimpah — di mana andaliman menjadi tokoh utama. Proses memasaknya unik: ikan tidak digoreng, tidak direbus, melainkan dikukus dalam balutan bumbu kental yang pelan-pelan meresap hingga ke tulang. Hasilnya? Tekstur yang lembut, bumbu yang meresap dalam, dan rasa yang kompleks: segar, pedas, getir, dan sedikit asam dari asam jungga (jeruk purut khas Batak)."
+        },
+        {
+          "type": "heading",
+          "text": "Mie Gomak: M*e Spaghetti-nya Batak"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jangan tertawa dulu mendengar nama 'Mie Spaghetti Batak' — julukan untuk Mie Gomak ini justru tepat. Mie gomak menggunakan mie lidi berukuran besar yang disajikan dengan saus kuning berbasis andaliman, bawang, kemiri, dan kunyit. Nama 'gomak' sendiri berasal dari cara penyajiannya — diambil dengan tangan (gomak = genggam dalam bahasa Batak)."
+        },
+        {
+          "type": "heading",
+          "text": "Di Mana Mencari Andaliman?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Andalam segar hanya bisa ditemukan di pasar-pasar tradisional di sekitar Danau Toba dan Berastagi. Di Pasar Samosir, ia dijual dalam bentuk segar maupun kering. Satu bungkus kecil andaliman segar bisa mengharumkan satu pot masakan besar. Jika Anda berkunjung ke Sumatera Utara, jangan lupa membawa pulang andaliman kering sebagai oleh-oleh — dijamin membuat dapur di rumah Anda berbau Toba."
+        }
+      ],
+      "tags": [
+        "Kuliner Batak",
+        "Andaliman",
+        "Arsik",
+        "Mie Gomak",
+        "Rempah"
+      ],
+      "related": [
+        "sejarah-kain-ulos",
+        "jelajahi-bukit-holbung-samosir"
+      ]
+    },
+    {
+      "id": "jelajahi-bukit-holbung-samosir",
+      "label": "Alam",
+      "title": "Menjelajahi Bukit Holbung Samosir",
+      "desc": "Dari atas bukit ini, luasnya Danau Toba terlihat spektakuler tanpa batas, menyerupai lanskap pegunungan hijau Selandia Baru...",
+      "img": "/images/berastagi.png",
+      "date": "15 Januari 2024",
+      "author": "Budi Simanjuntak",
+      "readTime": "8 Menit",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Pukul 05.00 pagi, kami sudah berjalan di antara padi-padi basah menuju puncak Bukit Holbung. Langit masih biru tua — bintang-bintang belum sepenuhnya padam ketika kami mulai mendaki lereng berumput yang terjal. Dan ketika fajar menetaskan lapisan emas pertamanya di atas permukaan Danau Toba, saya mengerti mengapa tempat ini disebut-sebut sebagai salah satu tempat matahari terbit terindah di Asia Tenggara."
+        },
+        {
+          "type": "heading",
+          "text": "Apa Itu Bukit Holbung?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bukit Holbung terletak di bagian tengah Pulau Samosir, sekitar 30 menit berkendara dari Desa Tuk Tuk. Tingginya sekitar 760 meter di atas permukaan danau — cukup tinggi untuk mendapatkan pemandangan 360 derajat yang memukau. Dari puncaknya, Anda bisa melihat hamparan Danau Toba seperti lautan toska yang dikelilingi pegunungan hijau."
+        },
+        {
+          "type": "quote",
+          "text": "Saya sudah mengunjungi 40 negara. Tapi sunrise di Bukit Holbung ini... ini beda. Ini seperti alam sedang melukis untuk Anda.",
+          "author": "Marco Bianchi, wisatawan asal Italia"
+        },
+        {
+          "type": "heading",
+          "text": "Rute Pendakian"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pendakian Bukit Holbung relatif mudah — cocok bahkan untuk para pemula. Dari desa setempat (Desa Holbung), tersedia dua jalur: jalur utama yang lebih landai memakan waktu 45-60 menit, dan jalur singkat yang lebih curam sekitar 30 menit. Jalur berumput, jadi usahakan menggunakan sepatu dengan sol anti-selip. Di musim hujan, trek bisa cukup licin."
+        },
+        {
+          "type": "heading",
+          "text": "Tips Menikmati Holbung Maksimal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Waktu terbaik adalah antara Mei–September (musim kemarau) untuk langit yang jernih dan minim kabut. Berangkatlah paling lambat pukul 05.00 untuk mengejar sunrise. Bawa jaket tebal karena suhu di puncak bisa turun hingga 15°C di pagi hari. Jangan lupa bawa camilan dan minuman hangat — tidak ada warung di puncak."
+        },
+        {
+          "type": "heading",
+          "text": "Lebih dari Sekadar Pemandangan"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yang membuat Bukit Holbung istimewa bukan sekadar pemandangannya yang memesona, tapi juga karena hampir tidak ada komersialisasi di sana. Tidak ada penjual cendera mata yang memenuhi setiap jengkal, tidak ada spot foto berbayar dengan props plastik warna-warni. Holbung masih mentah, masih jujur. Dan di tengah dunia wisata yang semakin ramai dan padat, kejujuran alam seperti ini adalah kemewahan yang sesungguhnya."
+        }
+      ],
+      "tags": [
+        "Alam Toba",
+        "Bukit Holbung",
+        "Samosir",
+        "Treking",
+        "Sunrise"
+      ],
+      "related": [
+        "sejarah-kain-ulos",
+        "rahasia-andaliman-merica-batak"
+      ]
+    },
+    {
+      "id": "wisata-orangutan-sumatra",
+      "label": "Wildlife",
+      "title": "Bertemu Orangutan di Bukit Lawang: Panduan Lengkap",
+      "desc": "Pertemuan mata ke mata dengan orangutan Sumatra di habitatnya sendiri adalah pengalaman yang tidak pernah benar-benar bisa dijelaskan dengan kata-kata...",
+      "img": "/images/bukit_lawang.png",
+      "date": "5 Desember 2023",
+      "author": "Dr. Hendra Prasetyo",
+      "readTime": "10 Menit",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Ada momen-momen di dalam hidup yang mengubah sudut pandang Anda sepenuhnya. Bagi saya, salah satunya adalah ketika seekor orangutan betina seberat 40 kilogram turun perlahan dari kanopi dan duduk beberapa meter dari tempat saya berdiri, memeluk anaknya yang masih bayi sambil memandang saya dengan mata kecoklatan yang dalam dan seolah penuh pertanyaan."
+        },
+        {
+          "type": "heading",
+          "text": "Mengapa Bukit Lawang?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bukit Lawang adalah pintu masuk utama ke kawasan Taman Nasional Gunung Leuser (TNGL) — salah satu dari sedikit tempat di bumi di mana Anda masih bisa bertemu orangutan Sumatra (Pongo abelii) di alam liar. Berbeda dengan kebun binatang atau pusat rehabilitasi, orangutan yang Anda temui di sini adalah semi-liar — mereka mengenali manusia, namun tetap hidup di hutan dengan cara-cara alami mereka."
+        },
+        {
+          "type": "quote",
+          "text": "Orangutan adalah arsitek terbaik yang pernah ada. Setiap malam mereka membangun sarang baru dari ranting dan daun. Mereka tidak pernah tidur di tempat yang sama dua kali.",
+          "author": "Pak Amir, guide senior Bukit Lawang sejak 1998"
+        },
+        {
+          "type": "heading",
+          "text": "Etika Bertemu Orangutan"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sebelum trek, panduan akan memberikan briefing wajib. Aturan-aturan ini bukan formalitas — ia ada untuk melindungi baik wisatawan maupun orangutan. Jangan mendekati dalam jarak kurang dari 10 meter. Jangan memberikan makanan apapun — bahkan buah sekalipun. Jika seekor orangutan mendekat, diam dan tenang. Jangan berlari."
+        },
+        {
+          "type": "heading",
+          "text": "Kapan Waktu Terbaik?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Musim terbaik adalah April–Oktober (kemarau). Di musim ini, orangutan lebih sering turun ke area yang lebih rendah mencari buah. Probabilitas pertemuan di hutan bisa mencapai 80-90%. Di musim hujan, mereka cenderung berdiam lebih tinggi di kanopi dan trek menjadi licin berbahaya."
+        }
+      ],
+      "tags": [
+        "Orangutan",
+        "Bukit Lawang",
+        "Wildlife",
+        "TNGL",
+        "Konservasi"
+      ],
+      "related": [
+        "jelajahi-bukit-holbung-samosir",
+        "sejarah-kain-ulos"
+      ]
+    },
+    {
+      "id": "tips-perjalanan-danau-toba",
+      "label": "Tips",
+      "title": "10 Tips Penting Sebelum Mengunjungi Danau Toba",
+      "desc": "Dari urusan transportasi, musim terbaik, hingga etika budaya — semua yang perlu Anda tahu sebelum berangkat ke Toba...",
+      "img": "/images/hero_toba.png",
+      "date": "20 November 2023",
+      "author": "Tim Wonderfull Toba",
+      "readTime": "7 Menit",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Danau Toba bukan destinasi wisata biasa. Ia adalah sebuah dunia dalam sebuah danau — dengan pulau di tengahnya, budaya yang kaya, kuliner yang unik, dan alam yang belum tersentuh di berbagai sudutnya. Namun seperti perjalanan ke mana pun, ada beberapa hal yang perlu Anda persiapkan agar pengalaman Anda berjalan mulus."
+        },
+        {
+          "type": "heading",
+          "text": "1. Pilih Musim yang Tepat"
+        },
+        {
+          "type": "paragraph",
+          "text": "Musim kemarau (April–Oktober) adalah waktu terbaik. Jalanan kering, pemandangan jernih, dan danau tampak biru kehijauan memesona. Hindari Desember–Februari yang merupakan puncak musim hujan — jalan ke Samosir bisa tergenang dan kabut tebal bisa menghalangi pemandangan."
+        },
+        {
+          "type": "heading",
+          "text": "2. Hormati Adat Setempat"
+        },
+        {
+          "type": "paragraph",
+          "text": "Masyarakat Batak memiliki adat dan nilai-nilai yang kuat. Ketika mengunjungi upacara adat atau perkampungan tradisional, berpakaian sopan. Selalu minta izin sebelum memotret warga lokal. Jika diundang makan di rumah warga, terima dengan senang hati — menolak tanpa alasan dianggap kurang sopan."
+        },
+        {
+          "type": "heading",
+          "text": "3. Siapkan Uang Tunai"
+        },
+        {
+          "type": "paragraph",
+          "text": "Di Pulau Samosir dan kawasan rural Toba, ATM masih terbatas dan sinyal kartu kredit sering bermasalah. Pastikan Anda membawa uang tunai yang cukup dari Parapat atau Medan sebelum menyeberang ke pulau."
+        },
+        {
+          "type": "heading",
+          "text": "4. Cicipi Kuliner Lokal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jangan datang ke Toba tanpa mencoba: Arsik (ikan mas bumbu kunyit andaliman), Naniura (carpaccio-nya Batak — ikan mentah yang 'dimasak' dengan asam), Saksang (daging babi/kerbau berbumbu darah), dan Mie Gomak. Kuliner Batak bukan untuk penakut, tapi sekali mencoba, Anda akan ketagihan."
+        }
+      ],
+      "tags": [
+        "Tips Wisata",
+        "Danau Toba",
+        "Panduan",
+        "Persiapan"
+      ],
+      "related": [
+        "jelajahi-bukit-holbung-samosir",
+        "rahasia-andaliman-merica-batak"
+      ]
+    },
+    {
+      "id": "festival-budaya-batak",
+      "label": "Event",
+      "title": "Festival Budaya Batak: Kalender Acara Terbaik",
+      "desc": "Dari Pesta Danau Toba, Festival Gondang Naposo, hingga Pesta Rakyat Samosir — panduan lengkap acara budaya yang sayang dilewatkan...",
+      "img": "/images/tangkahan.png",
+      "date": "3 Oktober 2023",
+      "author": "Sari Pangaribuan",
+      "readTime": "6 Menit",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Sumatera Utara adalah wilayah yang hidup sepanjang tahun dengan festival dan perayaan budaya. Jika Anda merencanakan perjalanan ke Toba, sedikit penyesuaian jadwal bisa membuat pengalaman Anda naik level berlipat ganda. Mari kita lihat agenda budaya terbaik yang bisa Anda saksikan."
+        },
+        {
+          "type": "heading",
+          "text": "Pesta Danau Toba (Agustus)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ini adalah festival terbesar dan paling dinantikan di Sumatera Utara. Diadakan setiap Agustus di sekitar Parapat dan Samosir, festival ini menampilkan atraksi budaya Batak: tari Tor-tor massal, lomba perahu tradisional, pertunjukan gondang (musik pukul Batak), dan pameran kerajinan ulos dari seluruh penjuru tanah Batak."
+        },
+        {
+          "type": "heading",
+          "text": "Festival Gondang Naposo (Oktober)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Festival yang lebih intim namun tak kalah menarik. Gondang Naposo adalah ritual musik yang digelar untuk para pemuda Batak — menampilkan orchestra gondang sabangunan (ensembel gong dan drum tradisional) yang memukau. Biasanya diadakan di desa-desa adat di sekitar Samosir."
+        },
+        {
+          "type": "heading",
+          "text": "Hari Raya Natal di Toba (Desember)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mayoritas masyarakat Batak Toba adalah Kristen. Perayaan Natal di Toba adalah sesuatu yang luar biasa — gereja-gereja dipenuhi lagu-lagu rohani dalam bahasa Batak yang merdu, rumah-rumah dihias dengan lampu berkilauan, dan nyanyian paduan suara terdengar dari setiap sudut desa. Pengalaman spiritual yang tak terlupakan bahkan bagi yang bukan Kristen."
+        }
+      ],
+      "tags": [
+        "Festival",
+        "Budaya Batak",
+        "Kalender Wisata",
+        "Event"
+      ],
+      "related": [
+        "sejarah-kain-ulos",
+        "jelajahi-bukit-holbung-samosir"
+      ]
+    }
+  ],
+  "HERO_SLIDES": [
+    {
+      "image": "/images/hero_toba.png",
+      "label": "Danau Toba",
+      "headline": [
+        "Pesona Kaldera",
+        "Purba Terbesar"
+      ],
+      "sub": "Selami keheningan danau vulkanik terbesar di dunia, di mana budaya Batak dan alam berjalinan sempurna."
+    },
+    {
+      "image": "/images/sipiso.png",
+      "label": "Sipiso-piso",
+      "headline": [
+        "Air Terjun",
+        "Tertinggi Indonesia"
+      ],
+      "sub": "Saksikan keagungan air terjun setinggi 120 meter yang membelah tebing hijau di ujung utara Toba."
+    },
+    {
+      "image": "/images/bukit_lawang.png",
+      "label": "Hutan Leuser",
+      "headline": [
+        "Rimba Liar",
+        "Warisan Dunia"
+      ],
+      "sub": "Jelajahi salah satu hutan hujan tropis terakhir di Asia, rumah bagi orangutan dan gajah Sumatra."
+    }
+  ],
+  "FEATURES": [
+    {
+      "icon": null,
+      "title": "3 Gunung Berapi",
+      "desc": "Sibayak, Sinabung, dan kaldera super-vulkan Toba yang megah."
+    },
+    {
+      "icon": null,
+      "title": "Danau Terbesar",
+      "desc": "Danau vulkanik terbesar di dunia seluas 1.145 km²."
+    },
+    {
+      "icon": null,
+      "title": "Kopi Mandailing",
+      "desc": "Nikmati kopi single origin terbaik langsung dari perkebunannya."
+    },
+    {
+      "icon": null,
+      "title": "Budaya Hidup",
+      "desc": "Batak, Melayu, Karo, Nias — harmoni etnis yang menawan."
+    }
+  ],
+  "GALLERY_IMAGES": [
+    {
+      "src": "/images/hero_toba.png",
+      "cols": "md:col-span-2",
+      "rows": "md:row-span-2",
+      "tag": "Alam"
+    },
+    {
+      "src": "/images/sipiso.png",
+      "cols": "md:col-span-1",
+      "rows": "md:row-span-1",
+      "tag": "Alam"
+    },
+    {
+      "src": "/images/berastagi.png",
+      "cols": "md:col-span-1",
+      "rows": "md:row-span-2",
+      "tag": "Aktivitas"
+    },
+    {
+      "src": "/images/tangkahan.png",
+      "cols": "md:col-span-1",
+      "rows": "md:row-span-1",
+      "tag": "Wildlife"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&q=80",
+      "cols": "md:col-span-1",
+      "rows": "md:row-span-1",
+      "tag": "Budaya"
+    },
+    {
+      "src": "/images/bukit_lawang.png",
+      "cols": "md:col-span-2",
+      "rows": "md:row-span-1",
+      "tag": "Wildlife"
+    },
+    {
+      "src": "/images/bukit_lawang.png",
+      "cols": "md:col-span-1",
+      "rows": "md:row-span-1",
+      "tag": "Alam"
+    },
+    {
+      "src": "/images/hero_toba.png",
+      "cols": "md:col-span-1",
+      "rows": "md:row-span-1",
+      "tag": "Aktivitas"
+    }
+  ]
+}
